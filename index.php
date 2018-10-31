@@ -68,8 +68,8 @@ a.hola:hover, a.hola:active {
 	//echo $count;
 	
 	for ($x = 0; $x < $count; $x++) {
-	    /*echo '<a href = "3dnever2.php?word='.$matches[1][$x].'"><img src="'.$matches[2][$x].'" alt="broken img" / ></a><br>';*//*class="responsive" width="600" height="400"*/
-echo '<a href = "3dnever2.php?word='.$matches[1][$x].'"><img src="'.$matches[2][$x].'" alt="broken img" class="responsive" width="400" height="300" / ></a>';
+	    /*echo '<a href = "download.php?word='.$matches[1][$x].'"><img src="'.$matches[2][$x].'" alt="broken img" / ></a><br>';*//*class="responsive" width="600" height="400"*/
+echo '<a href = "download.php?word='.$matches[1][$x].'"><img src="'.$matches[2][$x].'" alt="broken img" class="responsive" width="400" height="300" / ></a>';
 
 
 
