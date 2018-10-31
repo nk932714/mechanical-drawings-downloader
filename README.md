@@ -1,2 +1,2 @@
 # mechanical-drawings-downloader
-mechnaical drwaings
+download mechnaical drwaings in easy way from responsive web page.
